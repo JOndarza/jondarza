@@ -18,11 +18,10 @@
 
 ### 👨‍💻 About me
 
-- 🏥 10+ years shipping software for the **public health sector** — EMRs, hospital management, and pharmacy systems used across 5–20 healthcare institutions in Mexico.
+- 🏥 10+ years shipping software for the **health sector**.
 - 🏗️ Software Architect focused on **Clean Architecture**, **Domain-Driven Design**, and systems that stay maintainable as they scale.
-- 🎯 Currently leading product and engineering at **[EMA](https://www.emasalud.mx/)** / **[Qualis Technologies](https://www.qualistech.mx/)**, coordinating teams of up to 10 devs across web, mobile, and integrations.
-- 🅰️ Rode every major Angular upgrade since **v2 → v20+** with zero downtime for end users.
-- 🧱 Built a PWA with **300+ screens** and an internal design system from the ground up.
+- 🅰️ Rode every major Angular upgrade since **v2 → v22+** with zero downtime for end users.
+- 🧱 Built a PWA with **400+ screens** and an internal design system from the ground up.
 - 🎮 Avid gamer and collector — a couple of my side projects were born from that hobby.
 
 ---
